@@ -27,7 +27,6 @@
 - ⚡ Fun fact - **I recently started drinking coffee 🙂**
 
 ##  ⚒️ Languages and Tools I use
-
 <p>
 <h4>Programming Languages -</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -48,17 +47,14 @@
 </p>
 
 ##  📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=sysmonyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sysmonyx&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sysmonyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ##  🎶 Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nwrtlc45joffe3nyiis5jywqza&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nwrtlc45joffe3nyiis5jywqza&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nwrtlc45joffe3nyiis5jywqza&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31nwrtlc45joffe3nyiis5jywqza&redirect=true)
 
 ##  🌐 Find me around the Web
-
 <p>
 <a href="https://twitter.com/sysmonyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sysmonyx" height="30" width="40" /></a>
 <a href="https://fb.com/sysmonyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sysmonyx" height="30" width="40" /></a>
