@@ -18,8 +18,6 @@
 
 ### A passionate self-taught frontend developer from India
 
-<br>
-
 - 🔭 I’m currently working on - [My Personal Portfolio Website](https://sysmonyx.com)
 
 - 🌱 I’m currently learning - **NextJS**
@@ -27,8 +25,6 @@
 - 📫 How to reach me - **contact@sysmonyx.com**
 
 - ⚡ Fun fact - **I recently started drinking coffee 🙂**
-
-<br>
 
 ##  ⚒️ Languages and Tools I use
 
@@ -51,20 +47,15 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<br>
-
 ##  📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=sysmonyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sysmonyx&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sysmonyx&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
-
 ##  🎶 Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nwrtlc45joffe3nyiis5jywqza&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nwrtlc45joffe3nyiis5jywqza&redirect=true)
-
-<br>
 
 ##  🌐 Find me around the Web
 
@@ -74,8 +65,6 @@
 <a href="https://instagram.com/sysmonyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sysmonyx" height="30" width="40" /></a>
 <a href="https://reddit.com/user/sysmonyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="sysmonyx" height="30" width="40" /></a>
 </p>
-
-<br>
 
 ##  ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
