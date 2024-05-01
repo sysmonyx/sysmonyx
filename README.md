@@ -14,7 +14,7 @@
 #   Description:    My GitHub profile README.
 #
 #############################################################################################################################-->
-#   Hi 👋, I'm Soham (Sysmonyx)
+#   Hi 👋, I'm Soham (sysmonyx)
 
 ### A passionate self-taught frontend developer from India
 
@@ -23,8 +23,6 @@
 - 🌱 I’m currently learning - **NextJS**
 
 - 📫 How to reach me - **contact@sysmonyx.com**
-
-- ⚡ Fun fact - **I recently started drinking coffee 🙂**
 
 ##  ⚒️ Languages and Tools I use
 <p>
